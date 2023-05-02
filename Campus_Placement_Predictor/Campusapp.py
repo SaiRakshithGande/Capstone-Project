@@ -13,7 +13,7 @@ app = Flask(__name__)
 
 
 @app.route('/', methods=['GET', 'POST'])
-def hello_world():
+def Campusapp():
 
     if request.method == 'POST':
 
