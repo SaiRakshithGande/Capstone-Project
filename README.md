@@ -13,7 +13,7 @@
 
 ## Usage
 
-1. Open the IPYNB file in Google Colab and retrive the dataset from the project. //
-2.Click Run All
-3.After Run Go to the command prompt and run the py file by using command python.py. Paste the Url in chrome which is displayed im prompt
-4.After opening the url a website will be opened and give necessary requirements to predict the result.
+1. Open the IPYNB file in Google Colab and retrive the dataset from the project.
+2. Click Run All
+3. After Run Go to the command prompt and run the py file by using command python.py. Paste the Url in chrome which is displayed im prompt
+4. After opening the url a website will be opened and give necessary requirements to predict the result.
